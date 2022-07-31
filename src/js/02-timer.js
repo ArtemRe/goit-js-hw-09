@@ -4,7 +4,6 @@ import flatpickr from 'flatpickr';
 require('flatpickr/dist/themes/dark.css');
 
 let endData = new Date();
-// Дополнительный импорт стилей
 
 const refs = {
   btn: document.querySelector('button'),
